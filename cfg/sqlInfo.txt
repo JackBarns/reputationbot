@@ -1,0 +1,8 @@
+// SQL INFO \\
+useFileValues?=Y
+sqlHost=localhost
+sqlPort=3306
+sqlUsername=root
+sqlPassword=
+sqlDatabase=rep-bot
+sqlIntegratedSecurity=SSPI
