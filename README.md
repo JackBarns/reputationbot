@@ -8,5 +8,4 @@ You require MySQL, you can edit the SQL details inside the generated config file
 
 To view the layout of the database, view the SQL HANDLER class.
 
-Otherwise, import the following table into a database named "rep-bot" using out.csv
 I suggest not using root as the mysql user.
